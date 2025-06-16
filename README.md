@@ -13,5 +13,14 @@ This project showcases how to perform performance testing on a REST API using Ap
 - Apache JMeter
 - CSV Data Set Config
 - Random Variable Controller
+- Postman
+- HTML Export Generation
+
+## Prerequisites
+- Java JDK 17.0.12 (LTS)
+- Apache JMeter
+
+## HTML Report Screenshot
+
 
   
