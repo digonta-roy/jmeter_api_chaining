@@ -22,5 +22,8 @@ This project showcases how to perform performance testing on a REST API using Ap
 
 ## HTML Report Screenshot
 
+![summary](https://github.com/user-attachments/assets/92230c5b-b4b5-4961-b04d-bdb1e68869df)
+
+###### Caution: Don't use Reports folder
 
   
